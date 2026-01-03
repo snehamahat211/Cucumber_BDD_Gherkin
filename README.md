@@ -1,2 +1,2 @@
 ## Outputs
-![Output](info.png)
+![Output](func_login_output.png)
